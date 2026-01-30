@@ -1,11 +1,16 @@
 {
-  "id": "truth-tables",
-  "name": "Truth Tables",
-  "description": "Truth table expressions for logic practice",
-  "endpoints": [
-    {
-      "name": "Expressions",
-      "path": "/projects/truth-tables/expressions.json"
-    }
-  ]
+   "data":[
+      {
+         "expression":"((p⇒q)∧(p⇔q))∧(p∨q)",
+         "video_link":"",
+         "type":"CONTINGENCY",
+         "counter":1
+      },
+      {
+         "expression":"p∧r⇒q∨~r",
+         "video_link":"",
+         "type":"CONTINGENCY",
+         "counter":1
+      }
+   ]
 }
