@@ -1,0 +1,9 @@
+[
+  {
+    "id": "truth-tables",
+    "name": "Truth Tables",
+    "description": "Logical expressions and truth table exercises",
+    "version": "1.0.0",
+    "base_path": "/projects/truth-tables"
+  }
+]

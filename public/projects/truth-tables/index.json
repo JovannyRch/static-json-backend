@@ -1,0 +1,11 @@
+{
+  "id": "truth-tables",
+  "name": "Truth Tables",
+  "description": "Truth table expressions for logic practice",
+  "endpoints": [
+    {
+      "name": "Expressions",
+      "path": "/projects/truth-tables/expressions.json"
+    }
+  ]
+}

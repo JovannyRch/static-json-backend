@@ -1,0 +1,12 @@
+{
+  "name": "Static JSON Backend",
+  "description": "Static JSON endpoints for multiple projects",
+  "version": "1.0.0",
+  "projects": [
+    {
+      "id": "truth-tables",
+      "name": "Truth Tables App",
+      "base_path": "/projects/truth-tables"
+    }
+  ]
+}
